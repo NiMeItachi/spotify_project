@@ -9,11 +9,17 @@ This project is a starting point for a Flutter application.
 Screen shots
 
 Enter Page
+
 ![Enter Page](https://github.com/NiMeItachi/spotify_project/blob/master/spotify_git/home_page.png)
 
 
 Login Page
+
 ![Enter Page](https://github.com/NiMeItachi/spotify_project/blob/master/spotify_git/login_page.png)
+
+Enter Page
+
+![Enter Page](https://github.com/NiMeItachi/spotify_project/blob/master/spotify_git/enter_page.png)
 
 A few resources to get you started if this is your first Flutter project:
 
