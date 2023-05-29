@@ -6,6 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+Screen shots
+![Enter Page](https://github.com/NiMeItachi/spotify_project/blob/master/spotify_git/home_page.png)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
