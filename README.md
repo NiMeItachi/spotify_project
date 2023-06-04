@@ -1,17 +1,12 @@
 # spotify_project
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-Screen shots
-
+Screen shots:
 
 Enter Page
 
-![Enter Page](https://github.com/NiMeItachi/spotify_project/blob/master/spotify_git/enter_page.png)
+![Image alt](https://github.com/NiMeItachi/spotify_project/blob/master/spotify_git/enter_page.png)
 
 
 Login Page
